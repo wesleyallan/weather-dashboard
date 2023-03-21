@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="./hi.gif" alt="Mão acenando" width="30px">
-  #boraCodar 10 -
+  #boraCodar 10 - Weather Dashboard
 </h1>
 <p align="center">🌐🚀 Resoluções do desafios 10, um projeto dashboard de previsão do tempo.</p>
 
